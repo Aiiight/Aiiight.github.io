@@ -3917,3 +3917,8 @@
 			}
 
 		}
+	
+		.inner{
+			object-fit: contain;
+		}
+
